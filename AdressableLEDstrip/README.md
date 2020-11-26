@@ -12,3 +12,5 @@ Hvordan koble opp og programmere en adresserbar LED strip.
 - Legge til koblingsskjema
 - Legge til instruksjoner for hvordan lodde stripen sammen
 - laste opp eksempelkode
+### Koblingsskjema
+![Koblingsskjema på LED](\Users\tam0802\Pictures/)
