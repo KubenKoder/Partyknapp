@@ -12,5 +12,7 @@ Hvordan koble opp og programmere en adresserbar LED strip.
 - Legge til koblingsskjema
 - Legge til instruksjoner for hvordan lodde stripen sammen
 - laste opp eksempelkode
-### Permission
-- Testing permissions test nr 3
+
+### Skjema
+- Koblingsskjema for Arduino, powersupply og LED stripe.
+![LED Koblingsskjema](img/LED_tegning_v3.png)
