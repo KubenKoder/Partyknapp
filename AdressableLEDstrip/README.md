@@ -7,11 +7,14 @@ Hvordan koble opp og programmere en adresserbar LED strip.
 - [Guide](https://learn.adafruit.com/adafruit-neopixel-uberguide/powering-neopixels) for å finne vilken kondensator vi skulle bruke
 - [Guide](https://www.markdownguide.org/cheat-sheet/) for å gjøre denne side pen med markdown
 - [FastLED](http://fastled.io/) laget koden for å styre LED stripen
+- [RGB Demo](https://youtu.be/0bFzBiFtnNw) presentasjon av LED stipene.
 
 ## Todo:
-- Legge til koblingsskjema
+- Legge til koblingsskjema (check)
 - Legge til instruksjoner for hvordan lodde stripen sammen
 - laste opp eksempelkode
+- legge til video integrert på github. https://youtu.be/0bFzBiFtnNw
+
 
 ## Skjema:
 - Koblingsskjema for Arduino, powersupply og LED stripe.
