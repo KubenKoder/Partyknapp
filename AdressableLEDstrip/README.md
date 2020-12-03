@@ -28,3 +28,4 @@ Hvordan koble opp og programmere en adresserbar LED strip.
 - <a href="https://www.netonnet.no/art/smarte-hjem/smarte-elektriske-artikler/smartkontakter/d-link-wi-fi-smart-plug-dsp-w118/1009478.16666/?utm_source=prisguide&utm_medium=cpc&utm_term=1009478%2B-%20D-Link%20Wi-Fi%20Smart%20Plug%20DSP-W118&utm_campaign=prospecting_conversion_prisguide-prisjamforelse_no&dclid=CNzV7ZjDse0CFU8EGQod7_ANdg">Smart Rele</a> (type WiFi) (eksempel link)
 
 
+[![](http://img.youtube.com/vi/0bFzBiFtnNw/0.jpg)](http://www.youtube.com/watch?v=0bFzBiFtnNw "RGB Demo")
